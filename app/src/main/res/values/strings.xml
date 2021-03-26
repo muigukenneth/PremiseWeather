@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Premise Weather</string>
+    <string name="location">Location</string>
+    <string name="go">Go</string>
+    <string name="weather_image">Weather Image</string>
+    <string name="current">Current forecast</string>
+    <string name="seven_day_forecast">7 day forecast</string>
+    <string name="please_finish_process">Please finish selecting a location</string>
+    <string name="we_could_not_get_data">We couldn\'t get the weather at the moment. please try again later</string>
+    <string name="today">Today</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind">Wind</string>
+    <string name="forecasting">Forecasting</string>
+    <string name="done">Done</string>
+    <string name="nothing_to_show">No location selected</string>
+    <string name="pick_a_location">Pick a location then hit Go</string>
+    <string name="temperature">Temperature</string>
+    <string name="precipitation">Precipitation</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="md_white_1000">#FFFFFF</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#727272</color>
+    <color name="colorPrimaryTextInverted">#ffffff</color>
+    <color name="colorSecondaryTextInverted">#8affffff</color>
+    <color name="md_deep_orange_500">#FF5722</color>
+    <color name="md_blue_800">#1565C0</color>
+    <color name="md_green_800">#2E7D32</color>
+    <color name="md_yellow_800">#F9A825</color>
+    <color name="md_purple_800">#6A1B9A</color>
+    <color name="md_red_800">#C62828</color>
+    <color name="transparent">#00000000</color>
+</resources>

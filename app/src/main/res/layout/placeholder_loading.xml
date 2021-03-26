@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayoutContainer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground"
+        android:orientation="horizontal"
+        tools:ignore="UnusedAttribute">
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingBottom="6dp"
+                android:paddingEnd="6dp"
+                android:paddingStart="6dp"
+                android:paddingTop="6dp">
+
+                <View
+                    android:layout_width="@dimen/placeholderTextWidthLarge"
+                    android:layout_height="@dimen/placeholderTextHeightLarge"
+                    android:layout_marginStart="10dp"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:paddingStart="10dp"
+                    android:singleLine="true"
+                    android:background="@color/md_white_1000" />
+
+                <View
+                    android:layout_width="@dimen/placeholderTextWidthSmall"
+                    android:layout_height="@dimen/placeholderTextHeightSmall"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="10dp"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:paddingStart="5dp"
+                    android:background="@color/md_white_1000" />
+
+
+                <View
+                    android:layout_width="@dimen/placeholderTextWidthMedium"
+                    android:layout_height="@dimen/placeholderTextHeightSmall"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="10dp"
+                    android:paddingEnd="5dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:paddingStart="5dp"
+                    android:background="@color/md_white_1000" />
+            </LinearLayout>
+        </LinearLayout>
+</RelativeLayout>
